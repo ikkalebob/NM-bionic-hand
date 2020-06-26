@@ -3,9 +3,14 @@
 ## Joint Ranges of Motion
 A guideline to the ranges of motion in each joint of the hand, these values are not necessarily accurate to the average human hand, but are approximations useful for design.
 Total DOF according to these guidelines is 24/26:
--4 per finger
+
+-4 per finger (16)
+
 -4/5 for thumb depending on modelling of CMC joint
+
 -1/2 for CMC joints in palm depending on if these are independent or geared together
+
+-2 for wrist
 
 ### Interphalangeal Joints (IP)
 The interphalangeal joints of the hand can be modelled mechanically as a simple, single axis hinge. 
